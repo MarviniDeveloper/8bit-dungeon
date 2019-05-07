@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\MenuFont.xnb</Output>
+      <Time>2018-05-14T14:05:58.7244187+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btn.png</Source>
+      <Name>btn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\btn.xnb</Output>
+      <Time>2017-11-22T15:15:06.0285009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>btn_hover.png</Source>
+      <Name>btn_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\btn_hover.xnb</Output>
+      <Time>2017-11-22T15:15:06.7005009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chest.png</Source>
+      <Name>chest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\chest.xnb</Output>
+      <Time>2017-11-09T08:46:23.6857021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>key.png</Source>
+      <Name>key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\key.xnb</Output>
+      <Time>2017-11-09T08:46:23.0057021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ply_sprite.png</Source>
+      <Name>ply_sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\ply_sprite.xnb</Output>
+      <Time>2017-11-08T14:21:50.6124034+01:00</Time>
+    </Item>
+    <Item>
+      <Source>boden.png</Source>
+      <Name>boden</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\boden.xnb</Output>
+      <Time>2017-11-22T10:06:41.0975009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ply_idle.png</Source>
+      <Name>ply_idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\ply_idle.xnb</Output>
+      <Time>2017-11-08T15:09:39.3824034+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stage0.png</Source>
+      <Name>stage0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\stage0.xnb</Output>
+      <Time>2017-11-21T10:39:42.9202016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stage1.png</Source>
+      <Name>stage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\stage1.xnb</Output>
+      <Time>2017-11-22T09:49:55.1705009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player_sequenz.png</Source>
+      <Name>player_sequenz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\player_sequenz.xnb</Output>
+      <Time>2017-11-09T13:41:44.7377021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stage_sequenz.png</Source>
+      <Name>stage_sequenz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\stage_sequenz.xnb</Output>
+      <Time>2017-11-21T11:43:29.5132016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bckgr.png</Source>
+      <Name>bckgr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\bckgr.xnb</Output>
+      <Time>2017-11-22T15:12:15.2775009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hud.png</Source>
+      <Name>hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\hud.xnb</Output>
+      <Time>2017-11-21T11:17:35.1842016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>health.png</Source>
+      <Name>health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\health.xnb</Output>
+      <Time>2017-11-21T14:24:43.6392016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stage2.png</Source>
+      <Name>stage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\stage2.xnb</Output>
+      <Time>2017-11-22T09:42:49.4265009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stage3.png</Source>
+      <Name>stage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\stage3.xnb</Output>
+      <Time>2017-11-22T13:31:17.4965009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stageEND.png</Source>
+      <Name>stageEND</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\stageEND.xnb</Output>
+      <Time>2017-11-22T14:26:15.2905009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2017-11-22T15:30:03.6145009+01:00</Time>
+    </Item>
+    <Item>
+      <Source>win.png</Source>
+      <Name>win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\win.xnb</Output>
+      <Time>2017-11-23T09:08:33.3146135+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{646F4358-8F96-47EA-9FD8-700E22C244CE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_DungeonContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_Dungeon\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-06-11T09:44:41.4030073+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,4 @@
+c:\users\pfeifemar\documents\visual studio 2015\Projects\8Bit_Dungeon\8Bit_Dungeon\_8Bit_DungeonContent\obj\x86\Debug\_8Bit_DungeonContent.contentprojResolveAssemblyReference.cache
+C:\Users\PfeifeMar\Desktop\XNA_Pfeifer\8Bit_Dungeon\_8Bit_DungeonContent\obj\x86\Debug\_8Bit_DungeonContent.contentprojResolveAssemblyReference.cache
+C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_DungeonContent\obj\x86\Debug\_8Bit_DungeonContent.contentprojResolveAssemblyReference.cache
+C:\Users\Marvin Pfeifer\Documents\SRH Fachschulen\2.00_Schuljahr\XNA_Pfeifer\8Bit_Dungeon\_8Bit_DungeonContent\obj\x86\Debug\_8Bit_DungeonContent.contentproj.CoreCompileInputs.cache
